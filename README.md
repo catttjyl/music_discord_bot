@@ -6,4 +6,5 @@ Discord bot that connects to your Spotify account, analyzes your top songs and a
 ### Apis
 https://github.com/zmb3/spotify
 https://github.com/bwmarrin/discordgo
+https://github.com/joho/godotenv
 https://reccobeats.com/docs/apis/get-track-audio-features
